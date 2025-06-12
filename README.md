@@ -35,19 +35,21 @@ To create a comprehensive sales performance dashboard using the Superstore datas
 ## Dynamic Dashboard Capability 
 
 This Excel dashboard is fully interactive, enabling users to:
-      *  Filter by year and month using the timeline slicer.
-      *  View breakdowns by Category, Region, and Customer Segment using slicers.
-      *  Instantly update all charts and graphs to reflect selections — making it suitable for real-time business analysis.
-      *  Identify top and bottom-performing products, regions, and customer profiles with visual clarity.
+
+1. Filter by year and month using the timeline slicer.
+2. View breakdowns by Category, Region, and Customer Segment using slicers.
+3. Instantly update all charts and graphs to reflect selections — making it suitable for real-time business analysis.
+4. Identify top and bottom-performing products, regions, and customer profiles with visual clarity.
 
 ## Key Business Insights of the example 
 
 Entire timeline if followed, but only for South region:-
-      1.Phones are the highest-selling product and also lead in profitability across multiple years, along with Copiers.
-      2. The West region contributes the most to profit (₹108,418) and sales (₹725,457), followed by the East region with sales of ₹678,814 and profit of ₹91,523.
-      3. Jacksonville and Atlanta are the top-performing cities, each generating ₹2,000+ in sales consistently from 2014 to 2017.
-      4. The Machines sub-category shows consistent negative profit, with 2017 alone contributing a loss of over ₹2,000, signaling a need for pricing or cost review.
-      5. Sales are on an upward trend, rising from ~₹150,000 in 2015 to over ₹300,000 in 2017, showing strong business growth in recent years.
+
+1.Phones are the highest-selling product and also lead in profitability across multiple years, along with Copiers.
+2. The West region contributes the most to profit (₹108,418) and sales (₹725,457), followed by the East region with sales of ₹678,814 and profit of ₹91,523.
+3. Jacksonville and Atlanta are the top-performing cities, each generating ₹2,000+ in sales consistently from 2014 to 2017.
+4. The Machines sub-category shows consistent negative profit, with 2017 alone contributing a loss of over ₹2,000, signaling a need for pricing or cost review.
+5. Sales are on an upward trend, rising from ~₹150,000 in 2015 to over ₹300,000 in 2017, showing strong business growth in recent years.
 
 
 
