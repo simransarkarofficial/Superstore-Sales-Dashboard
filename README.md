@@ -35,10 +35,10 @@ To create a comprehensive sales performance dashboard using the Superstore datas
 ## Dynamic Dashboard Capability 
 
 This Excel dashboard is fully interactive, enabling users to:
-      - Filter by year and month using the timeline slicer.
-      - View breakdowns by Category, Region, and Customer Segment using slicers.
-      - Instantly update all charts and graphs to reflect selections — making it suitable for real-time business analysis.
-      - Identify top and bottom-performing products, regions, and customer profiles with visual clarity.
+      * Filter by year and month using the timeline slicer.
+      * View breakdowns by Category, Region, and Customer Segment using slicers.
+      * Instantly update all charts and graphs to reflect selections — making it suitable for real-time business analysis.
+      * Identify top and bottom-performing products, regions, and customer profiles with visual clarity.
 
 ## Key Business Insights of the example 
 
