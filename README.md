@@ -45,7 +45,7 @@ This Excel dashboard is fully interactive, enabling users to:
 
 Entire timeline if followed, but only for South region:-
 
-1.Phones are the highest-selling product and also lead in profitability across multiple years, along with Copiers.
+1. Phones are the highest-selling product and also lead in profitability across multiple years, along with Copiers.
 2. The West region contributes the most to profit (₹108,418) and sales (₹725,457), followed by the East region with sales of ₹678,814 and profit of ₹91,523.
 3. Jacksonville and Atlanta are the top-performing cities, each generating ₹2,000+ in sales consistently from 2014 to 2017.
 4. The Machines sub-category shows consistent negative profit, with 2017 alone contributing a loss of over ₹2,000, signaling a need for pricing or cost review.
