@@ -1,4 +1,4 @@
-# Superstore-Sales-Dashboard
+# Retail Sales & Profitability Analytics
 
 ## Project Objective
 
